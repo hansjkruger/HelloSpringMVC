@@ -1,0 +1,13 @@
+package coza.healthbridge.training.springmvc;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HellospringmvcApplication {
+
+	public static void main(String[] args) {
+
+		SpringApplication.run(HellospringmvcApplication.class, args);
+	}
+}
